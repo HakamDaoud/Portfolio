@@ -4,4 +4,11 @@ Technical Skills: Python, SQL, MATLAB
  - Finance and Decision-Making Engineer | National School of Applied Sciences (2018-2023)
  - Baccalaureate Mathematics|
 ## Work Experience
-### INTERNSHIP 
+### Internship | 
+
+### Internship | 
+
+
+
+# Projects
+##
