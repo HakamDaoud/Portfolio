@@ -22,12 +22,12 @@
 **Internship | Data Analyst | scheduled from July 2022 to August 2022**
 I have worked on utilizing Machine Learning for fraud detection;
 - Implementing classification models for fraud detection
-- Lightgbm 
-- Xgboost
-- Gradient Boost 
-- Adaboost 
-- Randim Forest
-- Régression ligistique 
+   - Lightgbm 
+   - Xgboost
+   - Gradient Boost 
+   - Adaboost 
+   - Randim Forest
+   - Régression ligistique 
 - Developing a dynamic interface
 
 ## Projects
