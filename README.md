@@ -1,5 +1,10 @@
 # Data Analyst
-Technical Skills: Python, SQL, MATLAB
+Skills: 
+          - Python, SQL,R,VBA
+          - Financial Mathematics
+          - Data Analysis
+          - Fundamental and Technical Analysis
+          - Derivative Product Modeling
 ## Education
  - Finance and Decision-Making Engineer | National School of Applied Sciences (2018-2023)
  - Baccalaureate Mathematics|
