@@ -7,7 +7,7 @@ Skills:
 - Derivative Product Modeling
 ## Education
  - Finance and Decision-Making Engineer | National School of Applied Sciences (2018-2023)
- - Baccalaureate Mathematics|
+ - Baccalaureate Mathematics
 ## Work Experience
 ### Internship | Data Analyst & Macro | scheduled from February 2023 to June 2023
  I have worked on implementing a decision support tool. The main tasks and responsibilities of my internship include:
