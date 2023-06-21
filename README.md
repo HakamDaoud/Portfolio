@@ -21,11 +21,8 @@ I have worked on utilizing Machine Learning for fraud detection;
   - Randim Forest
   - Régression ligistique 
 - Developing a dynamic interface
-
-
-
 ## Projects
-###
+### INVESTOR STRATEGIES SIMULATIONS
 
 
 
